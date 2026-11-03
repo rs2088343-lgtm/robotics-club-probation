@@ -13,3 +13,7 @@ I am a second-year B.Tech student interested in programming and robotics.
 - Robotics
 - Embedded Systems
 '@ | Set-Content README.md
+## Robotics Club Goals
+- Learn Git and GitHub.
+- Build robotics projects.
+- Improve problem-solving skills.
